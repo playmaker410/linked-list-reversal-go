@@ -1,3 +1,4 @@
-5 months in    → you are here now
-12 months in   → you will surprise yourself
-24 months in   → you will be helping others
+- Singly linked list implementation in Go
+- In-place reversal using pointer manipulation
+- Time complexity: O(n)
+- Space complexity: O(1)
